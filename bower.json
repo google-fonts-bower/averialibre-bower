@@ -1,0 +1,17 @@
+{
+    "name": "averialibre-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Dan Sayers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/averialibre-bower.git"
+    },
+    "description": "Averia Libre font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
